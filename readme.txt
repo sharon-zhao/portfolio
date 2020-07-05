@@ -1,8 +1,25 @@
-Thank you for using our template!
+# Sharon Zhao
+- Email: xinrui.zhao888@gmail.com
+- Phone: 9294989802
+- Address: Boston, MA 02134
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+## Skills
+- Javascript
+- Python
+- JSON, Ajax, Axios
+- HTML CSS SCSS
+- React
+- Photoshop
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+## Work Experience
+1. Counselor-in-Training
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+- Helping 48 students to apply suitable university in the world by analyzing their comprehensive background.
+- Communicating with different students and parents, meeting the needs of clients.
+- Provide psychological counseling to students who have already entered school and provide solutions to problems.
+
+2. Marketing Commissioner
+- Conducted several market surveys and performed data analysis. The results of data analysis played a pivotal role in the establishment of marketing strategy.
+- Formulated advertisements for various products corresponding to certain period, and selected appropriate media channel for each promotion.
+- Produced a company promotional film and prepared the useful materials for this promotion.
+- Performed periodical maintenance for company website, Micro Blogs and WeChat Subscription.
