@@ -9,6 +9,11 @@
 - JSON, Ajax, Axios
 - HTML CSS SCSS
 - React
+- Django
+- SQL
+- NoSQL
+- Node.js
+- Bootstrap
 - Photoshop
 
 ## Work Experience
