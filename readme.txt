@@ -1,5 +1,5 @@
 # Sharon Zhao
-- Email: xinrui.zhao888@gmail.com
+- Email: sharonzhaoxr@gmail.com
 - Phone: 9294989802
 - Address: Boston, MA 02134
 
